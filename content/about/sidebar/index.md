@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
+author: "Grace"
 role: "Social media strategy @ Savoir"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
