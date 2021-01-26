@@ -3,7 +3,7 @@ title: "Panelsets, Part 1"
 subtitle: "How to add panelsets in plain markdown posts."
 excerpt: "Add tabbed sections to your posts."
 date: 2021-01-02
-author: "Alison Hill"
+author: "Alison Hill & Eliane Mitchell! Testing"
 draft: false
 # layout options: single, single-sidebar
 layout: single
